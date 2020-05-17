@@ -97,7 +97,7 @@ p{
 }
 
 body {
-  background-color: #000;
+  background-color: rgb(255, 255, 255);
   color: /*#777777*/ azure;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
@@ -2069,7 +2069,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
-  background: #fff;
+  background: #ff0000;
 }
 
 #header.header-scrolled {
@@ -2341,9 +2341,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .p1-gradient-bg, .banner-left .primary-btn, .vision-history-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .history-banner, .sb_bar {
-  background: /*-moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%)*/ -moz-linear-gradient(90deg, black 0%, #f8c027 100%);
-  background: /*-webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%)*/ -webkit-linear-gradient(90deg, black 0%, #f8c027 100%);
-  background: /*-ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%)*/ -ms-linear-gradient(90deg, black 0%, #f8c027 100%);
+  background: /*-moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%)*/ -moz-linear-gradient(90deg, black 0%, #ff0000 100%);
+  background: /*-webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%)*/ -webkit-linear-gradient(90deg, black 0%, #ff0000 100%);
+  background: /*-ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%)*/ -ms-linear-gradient(90deg, black 0%, #ff0000 100%);
 }
 
 .p1-gradient-color, .single-services:hover .lnr {
